@@ -1,11 +1,1 @@
-aaa
-
-aaaaa
-
-
-qqqqqqqqq
-
-rrrrrrrr
-
-aiueo
-kakikukeko
+int u;
