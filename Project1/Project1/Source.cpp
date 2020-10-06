@@ -10,5 +10,3 @@ qqqqqqqqq
 rrrrrrrr
 
 ooooo
-
-ddd
