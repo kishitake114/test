@@ -7,4 +7,4 @@ qqqqqqqqq
 
 rrrrrrrr
 
-aiueo
+ooooo
