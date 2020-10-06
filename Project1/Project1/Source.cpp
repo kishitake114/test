@@ -10,3 +10,4 @@ qqqqqqqqq
 rrrrrrrr
 
 ooooo
+taketake
