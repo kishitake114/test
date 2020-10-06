@@ -1,3 +1,5 @@
+int u;
+dgdgdgdgdgdgd
 aaa
 
 aaaaa
